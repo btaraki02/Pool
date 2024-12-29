@@ -4,7 +4,7 @@
  {
     *nbr = 42;
  }
- int main(){
+ /*int main(){
     int a ;
     int *p = &a;
     ft_ft(p);
